@@ -1,0 +1,2 @@
+
+1. padding. padding in structs of cpp is different from the padding in structs of glsl. Be careful to padding.
