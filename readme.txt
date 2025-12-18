@@ -1,7 +1,7 @@
 
 quick start
 
-1. install vcpkg
+1. install vcpkg and add vcpkg to env path
 
 2. run
 
